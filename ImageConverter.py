@@ -5,7 +5,7 @@ import numpy as np
 class ImC:
 
     def __init__(self):
-        img = mpimg.imread('nine/.png')
+        img = mpimg.imread('nine/test.png')
         sectors = 28
         count = 0
         total = 0
